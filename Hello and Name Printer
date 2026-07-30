@@ -1,0 +1,6 @@
+public class HelloName {
+public static void main(String[] args) {
+System.out.println(x: "Hello");
+System.out.println(x: "Rawan Binty Sawar");
+}
+}

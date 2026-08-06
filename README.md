@@ -5,6 +5,9 @@ The Problems are given:
 2. Sum of Two Numbers
 3. Division of Two Numbers
 4. Arithmetic Operations
-5. Pattern Display: JAVA
-6. Expression Evaluation
-7. Formula Computation
+5. Product of Two Numbers
+6. Basic Arithmetic Operations
+7. Multiplication Table
+8. Pattern Display: JAVA
+9. Expression Evaluation
+10. Formula Computation
